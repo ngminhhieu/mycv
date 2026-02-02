@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2026.1.12)  2 FEB 2026 10:22
+This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2026.1.12)  2 FEB 2026 12:04
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/s5317836/Documents/Work/usa-stem-academic/hieu-cv-griffith.tex
@@ -1033,8 +1033,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--11
 
 [1
 
-{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./sections/section_publications_etc.tex
-Overfull \hbox (1.52237pt too wide) in alignment at lines 4--87
+{/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./sections/section_publications.tex
+Overfull \hbox (1.52237pt too wide) in alignment at lines 4--90
  [][] 
  []
 
@@ -1054,16 +1054,16 @@ Package rerunfilecheck Info: File `hieu-cv-griffith.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 31054 strings out of 475506
+ 31051 strings out of 475506
  156364,1373583 words of node,token memory allocated
  964 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 19 glue, 3 kern, 1 penalty, 2 glyph, 138 attribute, 71 glue_spec, 21 attribute_list, 2 write nodes
    avail lists: 1:5,2:4624,3:610,4:142,5:287,6:213,7:14366,8:4,9:1476,10:11,11:1446
- 53287 multiletter control sequences out of 65536+600000
+ 53284 multiletter control sequences out of 65536+600000
  59 fonts using 14304463 bytes
  117i,12n,117p,1253b,426s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf></System/Library/Fonts/Supplemental/Times New Roman Italic.ttf></usr/local/texlive/2025/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf></System/Library/Fonts/Supplemental/Times New Roman Bold.ttf></System/Library/Fonts/Supplemental/Times New Roman.ttf></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on hieu-cv-griffith.pdf (2 pages, 123546 bytes).
+Output written on hieu-cv-griffith.pdf (2 pages, 124113 bytes).
 
 PDF statistics: 107 PDF objects out of 1000 (max. 8388607)
  85 compressed objects within 1 object stream
