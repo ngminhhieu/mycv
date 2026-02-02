@@ -1,0 +1,69 @@
+\documentclass[localFont,alternative,showLinks]{documentMETADATA}
+
+\name{Minh Hieu}{Nguyen}
+
+\tagline{PhD Candidate -- Computer Science \\
+Griffith University, Australia
+}
+
+\socialinfo{
+  \personalLink{https://scholar.google.com/citations?user=4FQSRo4AAAAJ\&hl=en}\\
+	\email{minhhieun4@gmail.com}
+	\address{Gold Coast, Queensland, Australia}
+}
+
+\usepackage{footmisc}
+
+\makeatletter
+    \newcommand\@mytitle{} % create macro for title
+    \newcommand\mytitle[1]{\renewcommand\@mytitle{#1}}
+    \newcommand\@mythanks{} % create macro for thanks note
+    \newcommand\mythanks[1]{\renewcommand\@mythanks{%
+      \gdef\@thefnmark{*}\@footnotetext{#1}}
+    }
+    \newcommand\@myauthor{} % create macro for author
+    \newcommand\myauthor[1]{\renewcommand\@myauthor{#1}}
+    \newcommand{\articletitle}{%
+        \begingroup%
+            \centering%
+            \fontsize{14bp}{14bp}\selectfont%
+            \@mytitle%
+            \@mythanks%
+            \par
+            \vspace{\baselineskip}%
+            \fontsize{12bp}{12bp}\selectfont%
+            \@myauthor\par%
+            \fontsize{10bp}{10bp}\selectfont%
+            \vspace{2\baselineskip}%
+        \endgroup}
+\makeatother
+
+\setmainfont{Times New Roman}
+
+\usepackage{wrapfig}
+\usepackage{graphicx}
+\makeatletter
+\def\input@path{{sections/}}
+\makeatother
+\graphicspath{{figures/}}
+
+\begin{document}
+
+\makecvheader
+
+	\makecvfooter
+		{\textsc{}} %\selectlanguage{english}\today
+		{\textsc{}}
+		{}
+
+
+\input{sections/section_headline}
+\input{sections/section_education.tex}          
+\input{sections/section_experience}	        
+\input{sections/section_honors_awards}		
+\input{sections/section_teaching.tex}
+\input{sections/section_languages.tex}	
+\input{sections/section_references.tex}
+	
+
+\end{document}
