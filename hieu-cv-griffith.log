@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2026.1.12)  3 FEB 2026 08:10
+This is LuaHBTeX, Version 1.21.0 (TeX Live 2025)  (format=lualatex 2026.1.12)  3 FEB 2026 22:40
  restricted system commands enabled.
  file:line:error style messages enabled.
 **/Users/s5317836/Documents/Work/usa-stem-academic/hieu-cv-griffith.tex
@@ -1058,12 +1058,12 @@ Here is how much of LuaTeX's memory you used:
  156364,1373583 words of node,token memory allocated
  1010 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 21 glue, 3 kern, 1 penalty, 2 glyph, 152 attribute, 71 glue_spec, 23 attribute_list, 2 write nodes
-   avail lists: 1:5,2:4853,3:661,4:158,5:214,6:221,7:14426,8:2,9:1515,10:11,11:1412
+   avail lists: 1:6,2:4850,3:661,4:158,5:214,6:221,7:14388,8:2,9:1515,10:11,11:1401
  53284 multiletter control sequences out of 65536+600000
  59 fonts using 14304463 bytes
  117i,11n,117p,1253b,426s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf></System/Library/Fonts/Supplemental/Times New Roman Italic.ttf></usr/local/texlive/2025/texmf-dist/fonts/opentype/public/fontawesome/FontAwesome.otf></System/Library/Fonts/Supplemental/Times New Roman Bold.ttf></System/Library/Fonts/Supplemental/Times New Roman.ttf></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on hieu-cv-griffith.pdf (2 pages, 127176 bytes).
+Output written on hieu-cv-griffith.pdf (2 pages, 127140 bytes).
 
 PDF statistics: 107 PDF objects out of 1000 (max. 8388607)
  85 compressed objects within 1 object stream
